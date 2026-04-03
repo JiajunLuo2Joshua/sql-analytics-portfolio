@@ -5,12 +5,12 @@
 ## Datasets
 
 ### 1. Brazilian E-Commerce (Olist)
-- Source: [Kaggle - Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- Source: [Kaggle - Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
 - 8 tables: orders, order_items, customers, payments, products, sellers, reviews, geolocation
 - ~100k orders, 2016-2018
 
 ### 2. Chocolate Sales
-- Source: Kaggle
+- Source: Kaggle(https://www.kaggle.com/datasets/ssssws/chocolate-sales-dataset-2023-2024)
 - 5 tables: sales, customers, products, stores, calendar
 - Star schema model with profit/cost data
 
